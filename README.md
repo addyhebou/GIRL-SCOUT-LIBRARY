@@ -15,7 +15,7 @@ Games:
 You may not even know what the terms above even mean, but you'll understand over time!
 
 
-For my police brutality teams:
+For my police brutality teams, who need inspirations:
 1) http://bmoreunited.org
 2) https://www.nlg-npap.org
 3) https://www.blackwomensblueprint.org
