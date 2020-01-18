@@ -13,7 +13,3 @@ Games:
 1) Tag Cards - Week One
 
 You may not even know what the terms above even mean, but you'll understand over time!
-
-
-How To Open HTML in Atom:
-Click this link right here: https://atom.io/packages/open-html-in-browser
