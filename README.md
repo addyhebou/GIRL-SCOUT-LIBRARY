@@ -7,10 +7,12 @@ Resources:
 1) The Wireframe Examples
 2) Style Guide Templates
 3) Websites for Inspiration
+4) Game Resources
 
 
 Games:
 1) Tag Cards - Week One
+2) CSS Jeopardy - Week Two
 
 You may not even know what the terms above even mean, but you'll understand over time!
 
