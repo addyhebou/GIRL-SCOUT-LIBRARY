@@ -4,9 +4,17 @@ Hey, girl scouts! This is the GitHub repository, where you will be able to find 
 Here you will find:
 
 SPOTIFY PLAYLIST:
+
 Girls, add your favorite songs on the queue through our own Senior Stem Spotify Account!
 One requirement:
     * Cannot be explicit - add only the clean version to the queue; if you can't find a clean version, let us know
+    * https://open.spotify.com/?_ga=2.86915997.489819984.1581047042-269326445.1572820458
+    
+Username: Senior Stem
+Email: hjalloh@girlscoutsnyc.org
+Password: samoathinmint
+    
+
 
 Resources:
 1) The Wireframe Examples
