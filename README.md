@@ -1,7 +1,12 @@
 # GIRL-SCOUT-LIBRARY
 Hey, girl scouts! This is the GitHub repository, where you will be able to find all of the files and links you'd need to download.
 
-Here you will find
+Here you will find:
+
+SPOTIFY PLAYLIST:
+Girls, add your favorite songs on the queue through our own Senior Stem Spotify Account!
+One requirement:
+    * Cannot be explicit - add only the clean version to the queue; if you can't find a clean version, let us know
 
 Resources:
 1) The Wireframe Examples
