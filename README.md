@@ -32,8 +32,4 @@ Games:
 You may not even know what the terms above even mean, but you'll understand over time!
 
 
-For my police brutality teams, who need inspirations:
-1) http://bmoreunited.org
-2) https://www.nlg-npap.org
-3) https://www.blackwomensblueprint.org
-4) https://www.essence.com/news/13-organizations-leading-fight-against-police-brutality/#92827
+UMA's Planet Link: umadhamija.github.io/webpage-planet/
